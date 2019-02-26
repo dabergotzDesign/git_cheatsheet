@@ -5,7 +5,7 @@
 ### upload files to github
 - git clone = clone repo to your machine. use command & the link to that repo
 
-- git init = initialize/create new file in your repo (file is in "working directory")
+- git init = Create an empty Git repository or reinitialize an existing one (file is in "working directory")
 
 - git add = adds the new file to the "staging area" / checks if file is good to commit
 
@@ -22,7 +22,7 @@
 
 - git branch -d "branch name" = deletes branch
 
-### more stuff with git
+### more stuff
 - git status = checks the status of your repo & shows in red new files
 
 - nano & cat = create text based files inside termnial which are ready to commit
@@ -32,6 +32,8 @@
 - git rebase = reapply commits on top of another base tip
 
 - git help = display all commands
+
+- grep "word" "textfile" = picks words and/or sentences from file 
 
 
 
