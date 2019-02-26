@@ -29,5 +29,9 @@
 
 - git diff = show changes between commits
 
+- git rebase = reapply commits on top of another base tip
+
+- git help = display all commands
+
 
 
