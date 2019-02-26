@@ -31,7 +31,7 @@
 
 - git rebase = reapply commits on top of another base tip
 
-- git help = display all commands
+- **git help = display all commands**
 
 - grep "word" "textfile" = picks words and/or sentences from file 
 
