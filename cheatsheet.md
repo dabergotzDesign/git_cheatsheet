@@ -35,5 +35,8 @@
 
 - grep "word" "textfile" = picks words and/or sentences from file 
 
+### upload terminal to Github
 
+working directory :arrow_right: staging area :arrow_right:  Git Repo    :arrow_right:   Github
+    _file_        :arrow_right:   _git add_  :arrow_right: _git commit_ :arrow_right:  _git push_ 
 
