@@ -39,5 +39,10 @@
 
 ### upload terminal to Github
 
-working directory :arrow_right: staging area :arrow_right:  Git Repo    :arrow_right:   Github
+working directory :arrow_right: staging area :arrow_right:  Git Repo    :arrow_right:   Github  
+
+### git alias
+git alias = create a command
+Example: git config --global alias.<name of your new command> "configurate your command here"
+ 
 
