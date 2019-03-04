@@ -22,6 +22,8 @@
 
 - git branch -d "branch name" = deletes branch
 
+- git rebase = cuts off a branch and creates a new parent. Merge with master and resets commits.
+
 ### more stuff
 - git status = checks the status of your repo & shows in red new files
 
@@ -33,7 +35,7 @@
 
 - **git help = display all commands**
 
-- grep "word" "textfile" = picks words and/or sentences from file 
+- grep "word" "textfile" = picks words and/or sentences from file
 
 ### upload terminal to Github
 
